@@ -15,7 +15,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 @DisplayName("Req 01")
 public class ModelAndDtoTest {
-
   @Test
   @DisplayName("01 - Classes de Modelo e DTO criadas")
   void testModelAndDtoClasses() {
